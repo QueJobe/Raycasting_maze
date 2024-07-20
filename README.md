@@ -19,7 +19,7 @@ Ubuntu 14.04 LTS
 SDL2
 gcc with the following flags: -Wall -Werror -Wextra -pedantic
 The project must follow the Betty style guide.
-Installation
+<h2>Installation</h2>
 Clone the repository:
 
 git clone <repository_url>
