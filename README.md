@@ -13,7 +13,8 @@ Textured Walls and Ground/Ceiling: Add textures to walls and ground/ceiling.
 Map Parsing: Read the map from a file with user-defined standards.
 Map Drawing: Draw the map on the window with the player's line of sight and the ability to enable/disable it during execution.
 Multiple Simultaneous Inputs: Handle multiple inputs for moving and rotating the player.
-Requirements
+
+<h2>Requirements</h2>
 Ubuntu 14.04 LTS
 SDL2
 gcc with the following flags: -Wall -Werror -Wextra -pedantic
