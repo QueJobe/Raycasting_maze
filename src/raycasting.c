@@ -1,5 +1,11 @@
 #include "raycasting.h"
 
+ray_t rays[NUM_RAYS];
+
+static bool foundHorzWallHit, foundVertWallHit;
+static float horzWallHitX, horzWallHitY, vertWallHitX, vertWallHitY;
+static int horzWallContent, vertWallContent;
+
 /**
  * horzIntersection - Finds the first horizontal intersection with a wall.
  * @rayAngle: The current ray angle.

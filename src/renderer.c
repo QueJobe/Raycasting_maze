@@ -16,7 +16,7 @@ void render_game(void)
 }
 
 /**
- * destroy_game - Frees wall textures and destroys the game window.
+void destroy_game(void) * destroy_game - Frees wall textures and destroys the game window.
  */
 void destroy_game(void)
 {
