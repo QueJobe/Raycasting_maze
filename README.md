@@ -4,7 +4,7 @@
 
 <p>This project is a 3D raycasting game implemented using SDL2 on Ubuntu 14.04 LTS. It includes features like textured walls and ground/ceiling, player movement and rotation, collision detection, and map parsing. The game is built with strict coding and organizational requirements, following the Betty style guide.</p>
 
-Features
+<h2>Features</h2>
 3D Raycasting: Rendering of 3D walls using raycasting technique.
 Player Movement: Move the player using W, A, S, D keys.
 Camera Rotation: Rotate the camera using arrow keys or mouse movement.
