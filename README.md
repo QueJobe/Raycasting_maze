@@ -32,7 +32,7 @@ Usage
 Run the game with the following command:
 ./raycasting_game
 
-Controls
+<h2>Controls</h2>
 Move Forward: W
 Move Backward: S
 Move Left: A
@@ -41,18 +41,13 @@ Rotate Left: Left Arrow Key
 Rotate Right: Right Arrow Key
 Toggle Map: M
 
-Development Guidelines
+<h2>Development Guidelines</h2>
 Functions should be a maximum of 40 lines and 80 columns long.
 No more than 5 functions per file.
 Follow the Betty style guide strictly.
 Organize the repository with sources in the src directory and headers in the inc directory.
 
-Contributing
+<h2>Contributing</h2>
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Acknowledgements
-SDL2 library
-Betty style guide
