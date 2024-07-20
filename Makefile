@@ -3,7 +3,7 @@ CFLAGS = -Wall -Werror -Wextra -pedantic -std=c99 `sdl2-config --cflags`
 LIBS = -lm `sdl2-config --libs` -lSDL2_image 
 
 SRC_DIR = src
-INC_DIR = headers
+INC_DIR = inc
 
 SRCS = $(wildcard $(SRC_DIR)/*.c)
 OBJS = $(SRCS:.c=.o)

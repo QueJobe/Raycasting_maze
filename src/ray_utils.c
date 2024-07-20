@@ -30,7 +30,7 @@ bool isRayFacingDown(float angle)
  */
 bool isRayFacingUp(float angle)
 {
-	return !isRayFacingDown(angle);
+	return (!isRayFacingDown(angle));
 }
 
 /**
@@ -50,6 +50,6 @@ bool isRayFacingRight(float angle)
  */
 bool isRayFacingLeft(float angle)
 {
-	return !isRayFacingRight(angle);
+	return (isRayFacingRight(angle));
 }
 
