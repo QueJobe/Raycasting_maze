@@ -35,14 +35,15 @@ Clone the repository:
 </ul>
 
 <h2>Controls</h2>
-Move Forward: W
-Move Backward: S
-Move Left: A
-Move Right: D
-Rotate Left: Left Arrow Key
-Rotate Right: Right Arrow Key
-Toggle Map: M
-
+<ul>
+<li>Move Forward: W</li>
+<li>Move Backward: S</li>
+<li>Move Left: A</li>
+<li>Move Right: D</li>
+<li>Rotate Left: Left Arrow Key</li>
+<li>Rotate Right: Right Arrow Key</li>
+<li>Toggle Map: M</li>
+</ul>
 <h2>Development Guidelines</h2>
 Functions should be a maximum of 40 lines and 80 columns long.
 No more than 5 functions per file.
