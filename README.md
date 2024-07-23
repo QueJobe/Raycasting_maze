@@ -45,12 +45,17 @@ Clone the repository:
 <li>Toggle Map: M</li>
 </ul>
 <h2>Development Guidelines</h2>
-Functions should be a maximum of 40 lines and 80 columns long.
-No more than 5 functions per file.
-Follow the Betty style guide strictly.
-Organize the repository with sources in the src directory and headers in the inc directory.
-
+<ul>
+<li>Functions should be a maximum of 40 lines and 80 columns long.</li>
+<li>No more than 5 functions per file.</li>
+<li>Follow the Betty style guide strictly.</li>
+<li>Organize the repository with sources in the src directory and headers in the inc directory.</li>
+</ul>
 <h2>Contributing</h2>
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-
+<h2>Socials</h2>
+<ul>
+  <li>Twitter: https://twitter.com/Qiniso360</li>
+  <li>Project Blog:https://medium.com/@blessingsithole87/the-3d-maze-project-c86eb0842bcc </li>
+  <li>Linkden:www.linkedin.com/in/blessing-sithole-78079571 </li>
+</ul>
