@@ -22,17 +22,17 @@
 <li>The project must follow the Betty style guide.</li>
   </ul>
 <h2>Installation</h2>
+<ul>
 Clone the repository:
 
-git clone <repository_url>
-Navigate to the project directory:
-cd raycasting_game
-Compile the project:
-
-make
-Usage
-Run the game with the following command:
-./raycasting_game
+<li>git clone https://github.com/QueJobe/Raycasting_maze.git</li>
+<li>Navigate to the project directory:</li>
+<li>cd raycasting_game</li>
+<li>Compile the project:</li>
+<li> run :make</li>
+<li>Run the game with the following command:
+./raycasting_game </li>
+</ul>
 
 <h2>Controls</h2>
 Move Forward: W
