@@ -16,10 +16,11 @@
 <li>Multiple Simultaneous Inputs: Handle multiple inputs for moving and rotating the player.</li>
 </ul>
 <h2>Requirements</h2>
-Ubuntu 14.04 LTS
-SDL2
-gcc with the following flags: -Wall -Werror -Wextra -pedantic
-The project must follow the Betty style guide.
+  <ul>
+<li>SDL2</li>
+<li>gcc with the following flags: -Wall -Werror -Wextra -pedantic</li>
+<li>The project must follow the Betty style guide.</li>
+  </ul>
 <h2>Installation</h2>
 Clone the repository:
 
